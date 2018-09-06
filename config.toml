@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "http://bulatie.github.io/"
 title = "FLR - An individual site to share my thought, learning, and experience."
 enableRobotsTXT = true
 enableEmoji = true
