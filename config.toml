@@ -1,5 +1,5 @@
-baseURL = "/"
-title = "FLROOM - An individual site to share my thought, learning, and experience"
+baseURL = "http://localhost:1313"
+title = "FLR - An individual site to share my thought, learning, and experience."
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
@@ -20,14 +20,7 @@ PygmentsOptions = "linenos=table"
 
 # language support # en / zh-cn / other... translations present in i18n/
 defaultContentLanguage = "en"           # Default language to use
-[langusges]
-[languages.en]
-  languageCode = "en"
-  title = "FLROOM - An individual site to share my thought, learning, and experiences"
-  weight = 1
-[languages.zh-cn]
-  title = "FLROOM —— 一个分享我想法，学习和经验的独立站"
-  weight = 2
+
 [author]                  # essential                     # 必需
   name = "bulatie"
 
@@ -56,22 +49,22 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 40
   identifier = "categories"
   url = "/categories/"
-[[menu.main]]
-  name = "external-link"
-  weight = 50
-  url = "https://gohugo.io"
+# [[menu.main]]
+#   name = "external-link"
+#   weight = 50
+#   url = "https://gohugo.io"
 
 
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
-  since = "2017"            # Site creation time          # 站点建立时间
+  since = "2018"            # Site creation time          # 站点建立时间
   homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "Jane"        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["Hugo", "theme","jane"]
-  description = "Hugo theme jane example site."
+  logoTitle = "FLR"        # default: the title value    # 默认值: 上面设置的title值
+  keywords = ["Hugo", "FLR","jane", "BulaTie", "Blog"]
+  description = "An individual site to share my thought, learning, and experiences."
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
   archive-paginate = 3
@@ -175,3 +168,14 @@ defaultContentLanguage = "en"           # Default language to use
   mediaType = "application/json"
   baseName = "feed"
   isPlainText = true
+
+[langusges]
+  [languages.en]
+    languageCode = "en"
+    languageName = "English"
+    weight = 1
+  [languages.zh-cn]
+    languageCode = "zh-cn"
+    title = "FLR —— 一个分享我想法，学习和经验的独立站"
+    languageName = "简体中文"
+    weight = 2
