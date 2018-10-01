@@ -1,24 +1,17 @@
 ---
 title: "About"
-date: 2017-08-20T21:38:52+08:00
-lastmod: 2017-08-28T21:41:52+08:00
+date: 2018-10-01
+lastmod: 2018-10-01
 menu: "main"
 weight: 50
 
 # you can close something for this content if you open it in config.toml.
 comment: false
 mathjax: false
+contentCopyright: false
 ---
 
-Hugo is a static site engine written in Go.
-
-
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+FLR stands for "freedom learning room" and its idea comes from the students club I participated when I was in college.
+At that time, our majority job was providing using of computers for free to the college student and helping them to handle kinds of computer's problems. We work together, learning together, and very happy.
+I want that feeling come back, and I decide to build this blog to share my thoughts and learning experience to the opening internet and to get some fun.
 
