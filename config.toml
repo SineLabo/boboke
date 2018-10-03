@@ -49,10 +49,10 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 40
   identifier = "categories"
   url = "/categories/"
-[[menu.main]]
-  name = "about"
-  weight = 50
-  url = "/about/"
+# [[menu.main]]
+#   name = "about"
+#   weight = 50
+#   url = "/about/"
 
 
 [params]
