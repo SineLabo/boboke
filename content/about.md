@@ -1,17 +1,19 @@
 ---
 title: "About"
 date: 2018-10-01
-lastmod: 2018-10-01
+lastmod: 2018-10-04
 menu: "main"
 weight: 50
 
 # you can close something for this content if you open it in config.toml.
-comment: false
+comment: true
+toc: false
+autoCollapseToc: false
 mathjax: false
+reward: true
 contentCopyright: false
 ---
 
-FLR stands for "freedom learning room" and its idea comes from the students club I participated when I was in college.
-At that time, our majority job was providing using of computers for free to the college student and helping them to handle kinds of computer's problems. We work together, learning together, and very happy.
-I want that feeling come back, and I decide to build this blog to share my thoughts and learning experience to the opening internet and to get some fun.
+FLR stands for "freedom learning room".
+The main purpose of writing blogs is to share my thoughts and experiences to the internet and hope it could help someone else.
 
