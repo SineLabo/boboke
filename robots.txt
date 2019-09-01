@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://bulatie.github.io/sitemap.xml

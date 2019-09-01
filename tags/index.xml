@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on FLR - An individual site to share my thought, learning, and experience.</title>
+    <link>http://bulatie.github.io/tags/</link>
+    <description>Recent content in Tags on FLR - An individual site to share my thought, learning, and experience.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>bulatie</copyright>
+    <lastBuildDate>Thu, 31 Aug 2017 15:43:48 +0800</lastBuildDate>
+    
+	<atom:link href="http://bulatie.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>English</title>
+      <link>http://bulatie.github.io/tags/english/</link>
+      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      
+      <guid>http://bulatie.github.io/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preview</title>
+      <link>http://bulatie.github.io/tags/preview/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://bulatie.github.io/tags/preview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://bulatie.github.io/tags/shortcodes/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://bulatie.github.io/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag 2</title>
+      <link>http://bulatie.github.io/tags/tag-2/</link>
+      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      
+      <guid>http://bulatie.github.io/tags/tag-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag 6</title>
+      <link>http://bulatie.github.io/tags/tag-6/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://bulatie.github.io/tags/tag-6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
