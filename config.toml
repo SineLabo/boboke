@@ -176,6 +176,6 @@ defaultContentLanguage = "en"           # Default language to use
     weight = 1
   [languages.zh-cn]
     languageCode = "zh-cn"
-    title = "FLR —— 一个分享我想法，学习和经验的独立站"
+    title = "FLR —— 分享想法，学习和经验"
     languageName = "简体中文"
     weight = 2
